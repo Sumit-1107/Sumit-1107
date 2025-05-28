@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sumit-1107
+- 👋 Hi, I’m Sumit
 - 👀 My hobbies are traveling, soccer, and social interactions
 - 🌱 I’m currently learning software engineering and AI implementations
 - 💞️ I’m looking to collaborate on projects related to algorithms, software development, or AI
